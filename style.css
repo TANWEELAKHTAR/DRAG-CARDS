@@ -7,6 +7,11 @@ body {
   justify-content: center;
   background: url("./images/bg.jpeg") center/1000px;
   overflow: hidden;
+  font-weight: bold;
+}
+
+.inline {
+  display: inline-block;
 }
 
 .paper {
